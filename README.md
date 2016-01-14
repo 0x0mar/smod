@@ -5,9 +5,9 @@ smod is a modular framework with every kind of diagnostic and offensive feature 
 SCADA (Process Control Networks) based systems have moved from proprietary closed networks to open source solutions and TCP/IP enabled networks steadily over recent years. This has made them vulnerable to the same security vulnerabilities that face our traditional computer networks.
 
 The Modbus/TCP protocol was used as the reference protocol to display the effectiveness of the test bed in carrying out cyber attacks on a power system protocol. Modbus/TCP was chosen specifically for these reasons:
-1- modbus is still widely used in power systems.
-2- modbus/TCP is simple and easy to implement.
-3- modbus protocol libraries are freely available for utilities to implement smart grid applications.
++ modbus is still widely used in power systems.
++ modbus/TCP is simple and easy to implement.
++ modbus protocol libraries are freely available for utilities to implement smart grid applications.
 
 You can use this tool to vulnerability assessment a modbus protocol.
 
